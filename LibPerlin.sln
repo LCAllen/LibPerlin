@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibPerlin", "PerlinLibrary\LibPerlin.csproj", "{B3B86974-DCDB-4E42-926C-6DB584D53457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibPerlinTest", "LibPerlinTest\LibPerlinTest.csproj", "{C26B0514-B9F8-4C62-885E-075E2090008C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B86974-DCDB-4E42-926C-6DB584D53457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B86974-DCDB-4E42-926C-6DB584D53457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B86974-DCDB-4E42-926C-6DB584D53457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B86974-DCDB-4E42-926C-6DB584D53457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26B0514-B9F8-4C62-885E-075E2090008C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26B0514-B9F8-4C62-885E-075E2090008C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26B0514-B9F8-4C62-885E-075E2090008C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26B0514-B9F8-4C62-885E-075E2090008C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
